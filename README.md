@@ -21,7 +21,7 @@ A modern, reusable React/Next.js component to select recurring dates — inspire
 ## 📸 Demo
 
 ▶️ Watch demo: [Loom Video](#)  
-💻 Live version: [Try on Vercel](#)
+💻 Live version: [Try on Vercel](https://recurring-date-picker-eta.vercel.app/)
 
 ---
 
