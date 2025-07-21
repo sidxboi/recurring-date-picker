@@ -16,7 +16,7 @@ export default function DateRangePicker() {
         />
       </div>
       <div>
-        <label className="block text-sm text-gray-700 mb-1">🎯 End Date (optional)</label>
+        <label className="block text-sm text-gray-700 mb-1">End Date (optional)</label>
         <input
           type="date"
           value={endDate ? endDate.toISOString().split('T')[0] : ''}
