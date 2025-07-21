@@ -7,7 +7,7 @@ export default function DateRangePicker() {
   return (
     <div className="mb-8 grid grid-cols-1 md:grid-cols-2 gap-6">
       <div>
-        <label className="block text-sm text-gray-700 mb-1">📅 Start Date</label>
+        <label className="block text-sm text-gray-700 mb-1"> Start Date</label>
         <input
           type="date"
           value={startDate ? startDate.toISOString().split('T')[0] : ''}
